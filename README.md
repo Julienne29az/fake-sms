@@ -1,5 +1,5 @@
 # fake-sms
-![h2](https://user-images.githubusercontent.com/82051128/201476876-b4339820-0307-4cfb-8550-1fbfcc6c53dd.png)
+Git clone  https://github.com/machine1337/fake-sms.git
 
 
 
@@ -57,6 +57,6 @@
      3. Windows
      
 # Contact:
-    Telegram Group:- https://t.me/machine1337
+Fake-sms
      
 
